@@ -1,3 +1,7 @@
+# Chat Application with React JS and Chat Engine
+# This project is hosted at-https://nifty-brattain-f09162.netlify.app/
+# Use username=demo and password 123456 to login
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
